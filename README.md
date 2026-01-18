@@ -6,8 +6,7 @@
 
 ## 📸 Demo
 
-![Demo Screenshot Placeholder](https://via.placeholder.com/800x450. png? text=AM+Modulation+Visualization)  
-*Interactive dashboard showing AM modulation, synchronous demodulation, and noise analysis*
+[streamlit-app-2026-01-18-12-21-49.webm](https://github.com/user-attachments/assets/0450232d-80de-48cc-91fd-2410138f8052)
 
 ---
 
