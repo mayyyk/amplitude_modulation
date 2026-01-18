@@ -63,3 +63,9 @@ The app will launch in your default browser.  Use the sidebar controls to modify
 ---
 
 *Built for engineers who need to visualize the invisible.*
+
+---
+
+**License**: MIT
+**Author**: [@mayyyk](https://github.com/mayyyk)
+
